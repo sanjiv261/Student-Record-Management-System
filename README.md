@@ -22,7 +22,7 @@ A command-line interface (CLI) based Student Record Management System implemente
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/student-record-system.git
+   git clone https://github.com/sanjiv261/Student-Record-Management-System.git
    cd student-record-system
    ```
 
