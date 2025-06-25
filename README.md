@@ -66,22 +66,22 @@ Student Record Management System
 
 1. Add a new student:
    ```
-   Enter student name: John Doe
+   Enter student name: Rohit Sharma
    Enter student marks: 85.5
    Student added successfully!
    ```
 
 2. View all students:
    ```
-   ID: 1, Name: John Doe, Marks: 85.5
-   ID: 2, Name: Jane Smith, Marks: 92.0
+   ID: 1, Name: Rohit Sharma, Marks: 85.5
+   ID: 2, Name: Rahul Kumar, Marks: 92.0
    ```
 
 3. Update a student:
    ```
    Enter student ID to update: 1
-   Current student details: ID: 1, Name: John Doe, Marks: 85.5
-   Enter new name (leave blank to keep current): Johnathan Doe
+   Current student details: ID: 1, Name: Rohit Sharma, Marks: 85.5
+   Enter new name (leave blank to keep current): Virat Kohli
    Enter new marks (leave blank to keep current): 87.0
    Student updated successfully!
    ```
